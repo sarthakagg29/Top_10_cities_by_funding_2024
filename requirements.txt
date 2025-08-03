@@ -1,0 +1,2 @@
+Excel>=2016
+TableauDesktopPublicEdition>=2021.1
